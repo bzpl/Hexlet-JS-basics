@@ -1,0 +1,9 @@
+// @ts-check
+/* eslint-disable no-console */
+/* Выведите на экран последний символ строки, находящейся в константе word. */
+
+const word = 'Na\nharis';
+
+// BEGIN (write your solution here)
+console.log(word[7]);
+// END
