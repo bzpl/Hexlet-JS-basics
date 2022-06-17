@@ -1,0 +1,13 @@
+// @ts-check
+/* eslint-disable no-console */
+/* eslint-disable prefer-template */
+
+const king = 'King Balon the 6th';
+
+// BEGIN (write your solution here)
+const numberOfPalaces = 6;
+const numberOfRooms = 17;
+
+let allRoomsOfKingBalon = numberOfPalaces * numberOfRooms;
+console.log(king + ' has ' + allRoomsOfKingBalon + ' rooms.')
+// END
