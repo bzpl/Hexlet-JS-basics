@@ -1,9 +1,0 @@
-/* eslint-disable arrow-body-style */
-
-// BEGIN (write your solution here)
-const getRandomNumber = () => {
-  return Math.round(Math.random() * 10);
-};
-// END
-
-export default getRandomNumber;
