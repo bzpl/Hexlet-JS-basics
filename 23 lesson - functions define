@@ -1,0 +1,12 @@
+// @ts-check
+/* eslint-disable no-console */
+
+// BEGIN (write your solution here)
+const printMotto = () => {
+  const text = 'Winter is coming';
+  console.log(text);
+}
+// END
+
+// exports are studied soon
+export default printMotto;
